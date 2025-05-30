@@ -22,8 +22,8 @@ A simple and fully functional **Calculator App** built using **React.js**. It pe
 ## 📦 Installation & Running
 
 ### 1. Clone the repo:
-git clone https://github.com/your-username/react-calculator.git
-cd react-calculator
+git clone https://github.com/MinnuReddyKontham/Calculator.git
+cd cal
 
 2. Install dependencies
 npm install
