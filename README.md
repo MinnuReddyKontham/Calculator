@@ -10,9 +10,6 @@ A simple and fully functional **Calculator App** built using **React.js**. It pe
 - Clear (`C`) and backspace (`⌫`) support
 - Responsive layout – works on mobile and desktop
 
-## 📸 Screenshot
-
-![Calculator Screenshot](screenshot.png) <!-- Replace with your actual image if available -->
 
 ## 🛠️ Technologies Used
 
@@ -32,7 +29,7 @@ git clone
 
 ### 1. Clone the repo:
 bash
-git clone 
+git clone https://github.com/MinnuReddyKontham/Calculator.git
 cd cal
 
 2. Install dependencies:
